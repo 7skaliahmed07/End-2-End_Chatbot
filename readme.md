@@ -60,7 +60,7 @@ End-2-End_chatbot/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/End-2-End_chatbot.git
+   git clone https://github.com/7skaliahmed07/End-2-End_chatbot.git
    cd End-2-End_chatbot
    ```
 
